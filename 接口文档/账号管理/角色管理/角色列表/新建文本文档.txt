@@ -1,0 +1,62 @@
+{
+    "authorityList":[
+        {
+            "id":1,
+            "name":"查询"
+        }
+    ],
+    "code":0,
+    "message":"获取风控系统角色列表成功",
+    "page":{
+        "endRow":5,
+        "firstPage":true,
+        "hasNextPage":true,
+        "hasPrePage":false,
+        "lastPage":false,
+        "nextPage":2,
+        "offset":0,
+        "orderBySetted":false,
+        "pageNo":1,
+        "pageSize":5,
+        "pd":{
+            "resourceId":8,
+            "userId":24
+        },
+        "prePage":1,
+        "result":[
+            {
+                "createTime":"2017-02-28 14:59:50",
+                "desc":"线下运营人员",
+                "id":1,
+                "name":"线下运营总监"
+            },
+            {
+                "createTime":"2017-02-28 15:06:28",
+                "desc":"客服经理及客服员工",
+                "id":2,
+                "name":"客服经理"
+            },
+            {
+                "createTime":"2017-02-28 18:03:33",
+                "desc":"",
+                "id":3,
+                "name":"用户运营"
+            },
+            {
+                "createTime":"2017-03-02 19:38:47",
+                "desc":"物联网部门查询数据",
+                "id":4,
+                "name":"物联网"
+            },
+            {
+                "createTime":"2017-03-15 16:55:44",
+                "desc":"",
+                "id":5,
+                "name":"产品部"
+            }
+        ],
+        "startRow":1,
+        "totalItems":12,
+        "totalPages":3
+    }
+}
